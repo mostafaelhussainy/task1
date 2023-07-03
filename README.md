@@ -31,16 +31,18 @@
 
 7. Clicking on the dropdown doesn't open it, you have to click on the icon only
 
+<br><br>
+
+![6](https://github.com/mostafaelhussainy/task1/assets/105276328/02caf55f-4538-4099-9def-0a34995c931e)
+
+<br><br>
+
 8. Footer overflowing outside the width needs to reduce the gaps between columns and reduce the font sizes, maybe stack them vertically or in a group of two columns
 
 <br><br>
 
 ![7](https://github.com/mostafaelhussainy/task1/assets/105276328/b1923a84-7a29-4788-a600-494ab36aa59c)
    
-<br><br>
-
-![6](https://github.com/mostafaelhussainy/task1/assets/105276328/02caf55f-4538-4099-9def-0a34995c931e)
-
 <br><br>
 
 ---
