@@ -23,6 +23,8 @@
 
 ![3](https://github.com/mostafaelhussainy/task1/assets/105276328/64fcec99-5a15-4ed9-9e9d-b92de5415d43)
 
+![8](https://github.com/mostafaelhussainy/task1/assets/105276328/dd17ab40-1f3c-4a9c-b129-494cd5cb4979)
+
 <br><br>
 
 6. HTML isn't semantic
